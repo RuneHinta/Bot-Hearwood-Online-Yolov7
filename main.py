@@ -27,7 +27,7 @@ coincidencia =0.3
 loop_time = time()
 windowname = 'Heartwood Online'
 windows = WindowCapture(windowname)
-classeclick= Click(windowname)
+#classeclick= Click(windowname)
 
 # Mapeo de colores para cada clase
 class_colors = {
