@@ -21,6 +21,17 @@ Bot para el juego de Heartwood Online con modelo entrenado en YOLOv7.
     ```bash
     pip install -r requirements.txt
     ```
+4. **Recuerda verificar las versiones de las libs**
+
+    ```bash
+    pip list
+    ```
+5. **recuerda verificar que estes usando python v_3.11 o mas**
+    ```bash
+    python --version
+    ```
+    
+
 
     Asegúrate de que la versión de Python sea la recomendada (Python v3.11 o superior) y las versiones de las bibliotecas sean exactamente iguales.
 
