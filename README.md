@@ -2,7 +2,7 @@
 
 Bot para el juego de Heartwood Online con modelo entrenado en YOLOv7.
 
-## img bot!!
+## Bajar para leer los requisitos de instalacion!!
 
 <a href="https://ibb.co/Wz3VdjV"><img src="https://i.ibb.co/ZgJ2w72/img-yolov7.png" alt="img-yolov7" border="0"></a>
 
