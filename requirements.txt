@@ -1,0 +1,25 @@
+opencv-python==4.8.0.76
+numpy==1.23.5
+pandas==1.5.3
+Pillow==9.4.0
+torch==2.1.0
+matplotlib==3.7.1
+PyYAML==6.0.1
+requests==2.31.0
+tensorboard==2.15.1
+scipy==1.11.4
+torchvision==0.16.0
+tqdm==4.66.1
+protobuf==3.20.3
+seaborn==0.13.1
+tensorboard==2.15.1
+ipython==7.34.0
+psutil==5.9.5
+# Libs Personales
+pygetwindow
+colorama
+pywin32
+keyboard
+pyautogui
+# Usar la version de  python 3.11
+
