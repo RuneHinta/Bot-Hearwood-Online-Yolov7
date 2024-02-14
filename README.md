@@ -1,20 +1,39 @@
 # Bot-Hearwood-Online-Yolov7
-Bot para el juego de Heartwood Online con modelo entremado en yolov7
 
-1# Crear  un entorno de desarollo 
-==> python -m venv venv
+Bot para el juego de Heartwood Online con modelo entrenado en YOLOv7.
 
-2# Activar el entorno de desarrollo
-==> ./venv/Scripts/Activate.ps1
-3# instalar los requirements.txt recuerda que la version de python recomendada es  python V_3.11  +
-==> pip install -r requirements.txt recomuendamos que las version  de las libs sean exactamente iguales 
+## Configuración del Entorno de Desarrollo
 
-4# descarga el modelo entrenado e incluyelo al proyecto desde el siguiente link 
-# comprobamos que no tiene virus ==> https://www.virustotal.com/gui/file/84e74b7ae94c486f35ad07dbeea6d9b95910e7a594a4d46552bdb0dfbe734131?nocache=1
-# mediafire ==> https://www.mediafire.com/file/jyi6zewti6ez1rr/modelonew.rar
+1. **Crear un Entorno de Desarrollo**
 
-# Recuerda abrir  el juego desde steam se llama Heartwood Online 
-# una vez inicializado el juego podemos iniciar el bot
-# el codigo apenas  reconoce  los  objetos  del modelo entrenado con yolov7
-# falta por agregar  movimiento del personaje 
-# falta por agregar  recoleccion  del objeto cuando el personaje llegue a la posicion del objeto
+    ```bash
+    python -m venv venv
+    ```
+
+2. **Activar el Entorno de Desarrollo**
+
+    ```bash
+    ./venv/Scripts/Activate.ps1
+    ```
+
+3. **Instalar Dependencias**
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+    Asegúrate de que la versión de Python sea la recomendada (Python v3.11 o superior) y las versiones de las bibliotecas sean exactamente iguales.
+
+## Descarga del Modelo Entrenado
+
+Descarga el modelo entrenado e inclúyelo en el proyecto desde el siguiente enlace:
+
+- [VirusTotal](https://www.virustotal.com/gui/file/84e74b7ae94c486f35ad07dbeea6d9b95910e7a594a4d46552bdb0dfbe734131?nocache=1)
+- [Mediafire](https://www.mediafire.com/file/jyi6zewti6ez1rr/modelonew.rar)
+
+## Uso del Bot
+
+1. Abre el juego desde Steam, llamado Heartwood Online.
+2. Inicializa el juego y luego inicia el bot.
+
+Nota: El código actualmente reconoce objetos del modelo entrenado con YOLOv7. Faltan por agregar funciones como movimiento del personaje y recolección de objetos cuando el personaje llega a la posición del objeto.
