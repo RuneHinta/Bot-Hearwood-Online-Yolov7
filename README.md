@@ -2,6 +2,10 @@
 
 Bot para el juego de Heartwood Online con modelo entrenado en YOLOv7.
 
+## img bot!!
+
+<a href="https://ibb.co/Wz3VdjV"><img src="https://i.ibb.co/ZgJ2w72/img-yolov7.png" alt="img-yolov7" border="0"></a>
+
 ## Configuración del Entorno de Desarrollo
 
 1. **Crear un Entorno de Desarrollo**
@@ -48,6 +52,4 @@ Descarga el modelo entrenado e inclúyelo en el proyecto desde el siguiente enla
 2. Inicializa el juego y luego inicia el bot.
 
 Nota: El código actualmente reconoce objetos del modelo entrenado con YOLOv7. Faltan por agregar funciones como movimiento del personaje y recolección de objetos cuando el personaje llega a la posición del objeto.
-## img prueba!!
 
-<a href="https://ibb.co/Wz3VdjV"><img src="https://i.ibb.co/ZgJ2w72/img-yolov7.png" alt="img-yolov7" border="0"></a>
