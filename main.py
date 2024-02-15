@@ -14,10 +14,10 @@ from utilidades.Classeclick import *
     
 
 os.environ["CUDA_VISIBLE_DEVICES"] = "0"  
-# เลือกอุปกรณ์ GPU หรือ CPU 
+# Seleccione el dispositivo GPU o CPU.
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     
-# Load YOLOv7 model
+# Cargamos el modelo de Yolov7
 model = torch.hub.load("WongKinYiu/yolov7", "custom", "modelonew.pt",force_reload=True)
 model = model.to(device)
 
