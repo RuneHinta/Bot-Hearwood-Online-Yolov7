@@ -7,30 +7,35 @@ Bot para el juego de Heartwood Online con modelo entrenado en YOLOv7.
 <a href="https://ibb.co/Wz3VdjV"><img src="https://i.ibb.co/ZgJ2w72/img-yolov7.png" alt="img-yolov7" border="0"></a>
 
 ## Configuración del Entorno de Desarrollo
+0. **Contactame si quieres ayudarme a actualizar el proyecto**
+   ```bash
+   gesaeloficial@gmail.com
+   ```
+   
 
-1. **Crear un Entorno de Desarrollo**
+2. **Crear un Entorno de Desarrollo**
 
     ```bash
     python -m venv venv
     ```
 
-2. **Activar el Entorno de Desarrollo**
+3. **Activar el Entorno de Desarrollo**
 
     ```bash
     ./venv/Scripts/Activate.ps1
     ```
 
-3. **Instalar Dependencias**
+4. **Instalar Dependencias**
 
     ```bash
     pip install -r requirements.txt
     ```
-4. **Recuerda verificar las versiones de las libs**
+5. **Recuerda verificar las versiones de las libs**
 
     ```bash
     pip list
     ```
-5. **recuerda verificar que estes usando python v_3.11 o mas**
+6. **recuerda verificar que estes usando python v_3.11 o mas**
     ```bash
     python --version
     ```
